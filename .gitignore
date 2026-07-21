@@ -2,3 +2,4 @@
 Cargo.lock
 *.fsb
 *.mp3
+fsb4-serializer.code-workspace
